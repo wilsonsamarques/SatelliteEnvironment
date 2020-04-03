@@ -1,0 +1,6 @@
+setup.py
+SatelliteEnvironment.egg-info/PKG-INFO
+SatelliteEnvironment.egg-info/SOURCES.txt
+SatelliteEnvironment.egg-info/dependency_links.txt
+SatelliteEnvironment.egg-info/requires.txt
+SatelliteEnvironment.egg-info/top_level.txt
