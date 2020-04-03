@@ -6,7 +6,7 @@ To test the algorithms with the gym Pendulum-v0 environment, just change the lin
 
 Requirements:
 
--Tensorflow version 1.14.0
+- Tensorflow version 1.14.0
 - keras
 - numpy
 - gym
